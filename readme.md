@@ -8,7 +8,7 @@ Link to Telegram Bot: https://t.me/SGSummonBot
 
 
 
-- Simply send it any building name and it will return to you the parking rate.
+- Simply send it any building name and it will return to you the parking rate. 
 - It can also take in a 6-digit postal code
 
 
